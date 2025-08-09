@@ -66,6 +66,11 @@ console.log(filter);
 console.log(_.isString("prince"))
 console.log(_.isString(3))
 
+
 // console.log(_.isString("prince"))
 console.log(_.isNumber(3))
 console.log(_.isNumber("prince"))
+console.log(_.isNumber("prince"))
+
+
+//after next updation
